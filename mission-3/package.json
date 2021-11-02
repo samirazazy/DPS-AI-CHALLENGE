@@ -1,0 +1,23 @@
+{
+  "name": "dps-ai-challenge",
+  "version": "1.0.0",
+  "description": "submit task ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node submit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirazazy/DPS-AI-CHALLENGE.git"
+  },
+  "author": "samir azazy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirazazy/DPS-AI-CHALLENGE/issues"
+  },
+  "homepage": "https://github.com/samirazazy/DPS-AI-CHALLENGE#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "hotp-totp-generator": "^1.1.3"
+  }
+}
